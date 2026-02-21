@@ -1,6 +1,6 @@
 ## Greetings.
 * Trans girl
-* BR/EN
+* PT-BR/EN
 * Programming for fun
 * System developing student
 * Music addict
