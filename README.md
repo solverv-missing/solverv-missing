@@ -1,10 +1,7 @@
 ## Greetings.
 * Trans girl
 * PT-BR/EN
-* Programming for fun
-* System developing student
-* Music addict
-* Part of a students dev team
+* Programming for fun!
 <!--
 **solverv-missing/solverv-missing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
